@@ -5,7 +5,7 @@
 **BMVC 2026**
 
 <p align="center">
-  <!--<a href="ARXIV_LINK"><img src="https://img.shields.io/badge/Paper-arXiv-red?style=flat-square&labelColor=444444" alt="Paper arXiv"></a>-->
+  <a href="http://arxiv.org/abs/2609.15357"><img src="https://img.shields.io/badge/Paper-arXiv-red?style=flat-square&labelColor=444444" alt="Paper arXiv"></a>
 
 **Yusung Choi**
 
