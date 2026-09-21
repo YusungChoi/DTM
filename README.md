@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diffusion Trajectory Modeling for Semantic Correspondence
+## Diffusion Trajectory Modeling for Semantic Correspondence
 
 **BMVC 2026**
 
